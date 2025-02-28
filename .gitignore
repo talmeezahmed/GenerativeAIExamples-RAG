@@ -32,3 +32,11 @@ RAG/notebooks/langchain/data/save_embedding
 
 # IntelliJ's project specific settings file
 .idea
+
+# Environment 
+.env
+venv 
+
+# Random Files
+TestFiles
+TestFiles/
